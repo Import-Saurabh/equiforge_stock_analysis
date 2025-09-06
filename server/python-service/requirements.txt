@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+yfinance
+beautifulsoup4
+requests
+mysql-connector-python
+lxml
+pymysql
+python-dotenv

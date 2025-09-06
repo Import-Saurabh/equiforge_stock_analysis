@@ -1,0 +1,502 @@
+symbol,company_name,market_cap_crores,category,rank
+RELIANCE,Reliance Industries Limited,1875063.18,Large Cap,1
+HDFCBANK,HDFC Bank Limited,1516257.15,Large Cap,2
+BHARTIARTL,Bharti Airtel Limited,1109644.44,Large Cap,3
+TCS,Tata Consultancy Services Limited,1101816.92,Large Cap,4
+ICICIBANK,ICICI Bank Limited,1016983.35,Large Cap,5
+SBIN,State Bank of India,759449.26,Large Cap,6
+INFY,Infosys Limited,594970.62,Large Cap,7
+HINDUNILVR,Hindustan Unilever Limited,585482.21,Large Cap,8
+LICI,Life Insurance Corporation Of India,580982.88,Large Cap,9
+BAJFINANCE,Bajaj Finance Limited,532303.84,Large Cap,10
+ITC,ITC Limited,522434.43,Large Cap,11
+LT,Larsen & Toubro Limited,509488.35,Large Cap,12
+HCLTECH,HCL Technologies Limited,406802.9,Large Cap,13
+MARUTI,Maruti Suzuki India Limited,403944.98,Large Cap,14
+SUNPHARMA,Sun Pharmaceutical Industries Limited,392242.48,Large Cap,15
+KOTAKBANK,Kotak Mahindra Bank Limited,390963.37,Large Cap,16
+M&M,Mahindra & Mahindra Limited,389497.85,Large Cap,17
+ULTRACEMCO,UltraTech Cement Limited,368279.55,Large Cap,18
+AXISBANK,Axis Bank Limited,332064.86,Large Cap,19
+NTPC,NTPC Limited,330851.65,Large Cap,20
+TITAN,Titan Company Limited,311326.17,Large Cap,21
+BAJAJFINSV,Bajaj Finserv Limited,306486.1,Large Cap,22
+ONGC,Oil & Natural Gas Corporation Limited,296379.27,Large Cap,23
+HAL,Hindustan Aeronautics Limited,289985.53,Large Cap,24
+ADANIPORTS,Adani Ports and Special Economic Zone Limited,289491.39,Large Cap,25
+ETERNAL,ETERNAL LIMITED,279661.54,Large Cap,26
+BEL,Bharat Electronics Limited,278868.11,Large Cap,27
+DMART,Avenue Supermarts Limited,276802.31,Large Cap,28
+POWERGRID,Power Grid Corporation of India Limited,265718.49,Large Cap,29
+ADANIENT,Adani Enterprises Limited,265692.22,Large Cap,30
+JSWSTEEL,JSW Steel Limited,255782.34,Large Cap,31
+WIPRO,Wipro Limited,253896.24,Large Cap,32
+TATAMOTORS,Tata Motors Limited,241649.03,Large Cap,33
+ASIANPAINT,Asian Paints Limited,238270.02,Large Cap,34
+COALINDIA,Coal India Limited,237819.74,Large Cap,35
+BAJAJ-AUTO,Bajaj Auto Limited,230258.64,Large Cap,36
+INDIGO,InterGlobe Aviation Limited,230110.24,Large Cap,37
+ADANIPOWER,Adani Power Limited,229102.24,Large Cap,38
+NESTLEIND,Nestle India Limited,211458.47,Large Cap,39
+JIOFIN,Jio Financial Services Limited,208986.68,Large Cap,40
+IOC,Indian Oil Corporation Limited,201721.34,Large Cap,41
+TATASTEEL,Tata Steel Limited,200633.84,Large Cap,42
+TRENT,Trent Limited,192251.23,Large Cap,43
+DLF,DLF Limited,188532,Large Cap,44
+GRASIM,Grasim Industries Limited,185496.03,Large Cap,45
+SBILIFE,SBI Life Insurance Company Limited,184913.53,Large Cap,46
+HYUNDAI,Hyundai Motor India Limited,179205.91,Large Cap,47
+HINDZINC,Hindustan Zinc Limited,178942.3,Large Cap,48
+VBL,Varun Beverages Limited,173849.64,Large Cap,49
+VEDL,Vedanta Limited,169490.02,Large Cap,50
+HDFCLIFE,HDFC Life Insurance Company Limited,165775.58,Large Cap,51
+IRFC,Indian Railway Finance Corporation Limited,164336.38,Large Cap,52
+DIVISLAB,Divi's Laboratories Limited,159281.39,Large Cap,53
+PIDILITIND,Pidilite Industries Limited,158002.76,Large Cap,54
+EICHERMOT,Eicher Motors Limited,155789.91,Large Cap,55
+BAJAJHLDNG,Bajaj Holdings & Investment Limited,154320.27,Large Cap,56
+ADANIGREEN,Adani Green Energy Limited,154282.37,Large Cap,57
+LTIM,LTIMindtree Limited,151602.9,Large Cap,58
+HINDALCO,Hindalco Industries Limited,149603.39,Large Cap,59
+AMBUJACEM,Ambuja Cements Limited,145132.92,Large Cap,60
+TVSMOTOR,TVS Motor Company Limited,140517.48,Large Cap,61
+BPCL,Bharat Petroleum Corporation Limited,140264.01,Large Cap,62
+PFC,Power Finance Corporation Limited,137646.69,Large Cap,63
+TECHM,Tech Mahindra Limited,134163.75,Large Cap,64
+SOLARINDS,Solar Industries India Limited,132160.79,Large Cap,65
+BRITANNIA,Britannia Industries Limited,128777.62,Large Cap,66
+BANKBARODA,Bank of Baroda,125715.76,Large Cap,67
+MAXHEALTH,Max Healthcare Institute Limited,123657.1,Large Cap,68
+TATAPOWER,Tata Power Company Limited,123420.17,Large Cap,69
+TORNTPHARM,Torrent Pharmaceuticals Limited,122872.45,Large Cap,70
+CIPLA,Cipla Limited,122705.91,Large Cap,71
+PNB,Punjab National Bank,122652.22,Large Cap,72
+GODREJCP,Godrej Consumer Products Limited,122481.93,Large Cap,73
+CHOLAFIN,Cholamandalam Investment and Finance Company Limited,122471.47,Large Cap,74
+LODHA,Lodha Developers Limited,121701.49,Large Cap,75
+HDFCAMC,HDFC Asset Management Company Limited,117602.27,Large Cap,76
+SHRIRAMFIN,Shriram Finance Limited,115356.82,Large Cap,77
+GAIL,GAIL (India) Limited,115175.68,Large Cap,78
+BOSCHLTD,Bosch Limited,114346.69,Large Cap,79
+SIEMENS,Siemens Limited,111658.9,Large Cap,80
+SHREECEM,SHREE CEMENT LIMITED,110587.35,Large Cap,81
+MAZDOCK,Mazagon Dock Shipbuilders Limited,109380.74,Large Cap,82
+INDHOTEL,The Indian Hotels Company Limited,107041.93,Large Cap,83
+ABB,ABB India Limited,107028.69,Large Cap,84
+CUMMINSIND,Cummins India Limited,104759.41,Large Cap,85
+TATACONSUM,TATA CONSUMER PRODUCTS LIMITED,104702.59,Large Cap,86
+APOLLOHOSP,Apollo Hospitals Enterprise Limited,104661.1,Large Cap,87
+UNIONBANK,Union Bank of India,103794.29,Large Cap,88
+CGPOWER,CG Power and Industrial Solutions Limited,103678.52,Large Cap,89
+POLYCAB,Polycab India Limited,102351.61,Large Cap,90
+MUTHOOTFIN,Muthoot Finance Limited,102157.55,Large Cap,91
+RECLTD,REC Limited,102010.95,Large Cap,92
+DRREDDY,Dr. Reddy's Laboratories Limited,101965.45,Large Cap,93
+JINDALSTEL,Jindal Steel & Power Limited,101067.28,Large Cap,94
+MANKIND,Mankind Pharma Limited,100664.6,Large Cap,95
+CANBK,Canara Bank,99595.74,Large Cap,96
+BSE,BSE Limited,96614.02,Large Cap,97
+DIXON,Dixon Technologies (India) Limited,96451.13,Large Cap,98
+ZYDUSLIFE,Zydus Lifesciences Limited,96396.84,Large Cap,99
+MOTHERSON,Samvardhana Motherson International Limited,96256.12,Large Cap,100
+IDBI,IDBI Bank Limited,96212.34,Mid Cap,101
+ADANIENSOL,Adani Energy Solutions Limited,95147.38,Mid Cap,102
+ICICIGI,ICICI Lombard General Insurance Company Limited,94787.95,Mid Cap,103
+BAJAJHFL,Bajaj Housing Finance Limited,94130.33,Mid Cap,104
+UNITDSPR,United Spirits Limited,93980.98,Mid Cap,105
+GMRAIRPORT,GMR AIRPORTS LIMITED,93711.12,Mid Cap,106
+JSWENERGY,JSW Energy Limited,93512.1,Mid Cap,107
+HEROMOTOCO,Hero MotoCorp Limited,93059.63,Mid Cap,108
+POWERINDIA,Hitachi Energy India Limited,92884.09,Mid Cap,109
+MARICO,Marico Limited,92072.12,Mid Cap,110
+HAVELLS,Havells India Limited,91991.21,Mid Cap,111
+SWIGGY,Swiggy Limited,91212.82,Mid Cap,112
+INDIANB,Indian Bank,90670.62,Mid Cap,113
+WAAREEENER,Waaree Energies Limited,90623.42,Mid Cap,114
+INDUSTOWER,Indus Towers Limited,90062.09,Mid Cap,115
+DABUR,Dabur India Limited,89553.61,Mid Cap,116
+LUPIN,Lupin Limited,89538.84,Mid Cap,117
+ICICIPRULI,ICICI Prudential Life Insurance Company Limited,89337.61,Mid Cap,118
+BHARTIHEXA,Bharti Hexacom Limited,87810,Mid Cap,119
+SUZLON,Suzlon Energy Limited,87517.95,Mid Cap,120
+HINDPETRO,Hindustan Petroleum Corporation Limited,86846.97,Mid Cap,121
+NTPCGREEN,NTPC Green Energy Limited,86681.66,Mid Cap,122
+NAUKRI,Info Edge (India) Limited,85364.85,Mid Cap,123
+SRF,SRF Limited,85026.54,Mid Cap,124
+NHPC,NHPC Limited,84448.31,Mid Cap,125
+POLICYBZR,PB Fintech Limited,83897.35,Mid Cap,126
+PERSISTENT,Persistent Systems Limited,81590.12,Mid Cap,127
+BHEL,Bharat Heavy Electricals Limited,78395.1,Mid Cap,128
+SBICARD,SBI Cards and Payment Services Limited,75037.49,Mid Cap,129
+OFSS,Oracle Financial Services Software Limited,74680.09,Mid Cap,130
+LLOYDSME,Lloyds Metals And Energy Limited,72853.79,Mid Cap,131
+PAYTM,One 97 Communications Limited,72093.93,Mid Cap,132
+RVNL,Rail Vikas Nigam Limited,71880.98,Mid Cap,133
+GVT&D,GE Vernova T&D India Limited,71690.6,Mid Cap,134
+ABBOTINDIA,Abbott India Limited,71581.55,Mid Cap,135
+IDEA,Vodafone Idea Limited,71180.59,Mid Cap,136
+COROMANDEL,Coromandel International Limited,70866.21,Mid Cap,137
+ABCAPITAL,Aditya Birla Capital Limited,70620.2,Mid Cap,138
+PRESTIGE,Prestige Estates Projects Limited,70615.74,Mid Cap,139
+FORTIS,Fortis Healthcare Limited,70490.59,Mid Cap,140
+ASHOKLEY,Ashok Leyland Limited,70400.25,Mid Cap,141
+IOB,Indian Overseas Bank,69689.56,Mid Cap,142
+GICRE,General Insurance Corporation of India,69588.02,Mid Cap,143
+OIL,Oil India Limited,68968.26,Mid Cap,144
+TORNTPOWER,Torrent Power Limited,68268.92,Mid Cap,145
+ATGL,Adani Total Gas Limited,67556.52,Mid Cap,146
+PATANJALI,Patanjali Foods Limited,65870.96,Mid Cap,147
+VMM,Vishal Mega Mart Limited,65529.54,Mid Cap,148
+BERGEPAINT,Berger Paints (I) Limited,63243.71,Mid Cap,149
+NMDC,NMDC Limited,62606.55,Mid Cap,150
+ALKEM,Alkem Laboratories Limited,62024.35,Mid Cap,151
+AUROPHARMA,Aurobindo Pharma Limited,61965.76,Mid Cap,152
+UNOMINDA,UNO Minda Limited,61867.69,Mid Cap,153
+JSWINFRA,JSW Infrastructure Limited,61845.54,Mid Cap,154
+INDUSINDBK,IndusInd Bank Limited,61093.57,Mid Cap,155
+SCHAEFFLER,Schaeffler India Limited,60794.44,Mid Cap,156
+FACT,Fertilizers and Chemicals Travancore Limited,60287.7,Mid Cap,157
+COLPAL,Colgate Palmolive (India) Limited,60025.92,Mid Cap,158
+MRF,MRF Limited,59937.91,Mid Cap,159
+OBEROIRLTY,Oberoi Realty Limited,59274.4,Mid Cap,160
+YESBANK,Yes Bank Limited,59068.77,Mid Cap,161
+TIINDIA,Tube Investments of India Limited,58978.19,Mid Cap,162
+GODREJPROP,Godrej Properties Limited,58900.83,Mid Cap,163
+PIIND,PI Industries Limited,58725.75,Mid Cap,164
+NYKAA,FSN E-Commerce Ventures Limited,58600.23,Mid Cap,165
+GLENMARK,Glenmark Pharmaceuticals Limited,58466.4,Mid Cap,166
+JSL,Jindal Stainless Limited,58275.29,Mid Cap,167
+IRCTC,Indian Railway Catering And Tourism Corporation Limited,58160.06,Mid Cap,168
+UPL,UPL Limited,56874,Mid Cap,169
+BHARATFORG,Bharat Forge Limited,55329.24,Mid Cap,170
+MOTILALOFS,Motilal Oswal Financial Services Limited,54963.17,Mid Cap,171
+BDL,Bharat Dynamics Limited,54797.54,Mid Cap,172
+MFSL,Max Financial Services Limited,54732.59,Mid Cap,173
+COFORGE,Coforge Limited,54378.99,Mid Cap,174
+AUBANK,AU Small Finance Bank Limited,54373,Mid Cap,175
+JKCEMENT,JK Cement Limited,54288.64,Mid Cap,176
+KALYANKJIL,Kalyan Jewellers India Limited,53968.37,Mid Cap,177
+SUPREMEIND,Supreme Industries Limited,53881.04,Mid Cap,178
+LINDEINDIA,Linde India Limited,53277.04,Mid Cap,179
+MPHASIS,MphasiS Limited,51855.9,Mid Cap,180
+BANKINDIA,Bank of India,51795.82,Mid Cap,181
+PHOENIXLTD,The Phoenix Mills Limited,51350.35,Mid Cap,182
+NAM-INDIA,Nippon Life India Asset Management Limited,51304.92,Mid Cap,183
+IDFCFIRSTB,IDFC First Bank Limited,51004.18,Mid Cap,184
+UBL,United Breweries Limited,50855.66,Mid Cap,185
+SAIL,Steel Authority of India Limited,50838.6,Mid Cap,186
+GODFRYPHLP,Godfrey Phillips India Limited,50210.51,Mid Cap,187
+LTF,L&T Finance Limited,49729.1,Mid Cap,188
+SUNDARMFIN,Sundaram Finance Limited,49621.2,Mid Cap,189
+PAGEIND,Page Industries Limited,49309.18,Mid Cap,190
+AIIL,Authum Investment & Infrastructure Limited,49116.91,Mid Cap,191
+FEDERALBNK,The Federal Bank  Limited,48190.79,Mid Cap,192
+BIOCON,Biocon Limited,47610.78,Mid Cap,193
+BALKRISIND,Balkrishna Industries Limited,46556.53,Mid Cap,194
+TATACOMM,Tata Communications Limited,46378.05,Mid Cap,195
+PREMIERENE,Premier Energies Limited,45955.14,Mid Cap,196
+LAURUSLABS,Laurus Labs Limited,45213.04,Mid Cap,197
+GLAXO,GlaxoSmithKline Pharmaceuticals Limited,44716.88,Mid Cap,198
+LTTS,L&T Technology Services Limited,44658.28,Mid Cap,199
+APLAPOLLO,APL Apollo Tubes Limited,44083.05,Mid Cap,200
+COCHINSHIP,Cochin Shipyard Limited,43874.05,Mid Cap,201
+MAHABANK,Bank of Maharashtra,42934.23,Mid Cap,202
+DALBHARAT,Dalmia Bharat Limited,42418.94,Mid Cap,203
+HUDCO,Housing & Urban Development Corporation Limited,42252.1,Mid Cap,204
+PETRONET,Petronet LNG Limited,42135,Mid Cap,205
+MCX,Multi Commodity Exchange of India Limited,41798.83,Mid Cap,206
+VOLTAS,Voltas Limited,41661.73,Mid Cap,207
+JUBLFOOD,Jubilant Foodworks Limited,41649.1,Mid Cap,208
+CONCOR,Container Corporation of India Limited,41492.95,Mid Cap,209
+360ONE,360 ONE WAM LIMITED,41348.38,Mid Cap,210
+IREDA,Indian Renewable Energy Development Agency Limited,40731.1,Mid Cap,211
+KAYNES,Kaynes Technology India Limited,39034.83,Mid Cap,212
+RADICO,Radico Khaitan Limited,38756.13,Mid Cap,213
+SJVN,SJVN Limited,38590.63,Mid Cap,214
+CRISIL,CRISIL Limited,37727.77,Mid Cap,215
+MEDANTA,Global Health Limited,37555.89,Mid Cap,216
+FLUOROCHEM,Gujarat Fluorochemicals Limited,37356.99,Mid Cap,217
+THERMAX,Thermax Limited,37165.76,Mid Cap,218
+ESCORTS,Escorts Kubota Limited,37114.41,Mid Cap,219
+NH,Narayana Hrudayalaya Ltd.,36937.8,Mid Cap,220
+GODREJIND,Godrej Industries Limited,36910.24,Mid Cap,221
+COHANCE,Cohance Lifesciences Limited,36343.87,Mid Cap,222
+KEI,KEI Industries Limited,36155.65,Mid Cap,223
+ENDURANCE,Endurance Technologies Limited,36136.33,Mid Cap,224
+M&MFIN,Mahindra & Mahindra Financial Services Limited,35726.62,Mid Cap,225
+BLUESTARCO,Blue Star Limited,35525.95,Mid Cap,226
+IPCALAB,IPCA Laboratories Limited,35378.44,Mid Cap,227
+UCOBANK,UCO Bank,35374.35,Mid Cap,228
+TATAELXSI,Tata Elxsi Limited,35135.01,Mid Cap,229
+3MINDIA,3M India Limited,34961.18,Mid Cap,230
+POONAWALLA,Poonawalla Fincorp Limited,34793.14,Mid Cap,231
+APARINDS,Apar Industries Limited,34789.77,Mid Cap,232
+TATAINVEST,Tata Investment Corporation Limited,34761.5,Mid Cap,233
+DELHIVERY,Delhivery Limited,34752.1,Mid Cap,234
+CHOLAHLDNG,Cholamandalam Financial Holdings Limited,34651.48,Mid Cap,235
+NATIONALUM,National Aluminium Company Limited,34493.75,Mid Cap,236
+ASTRAL,Astral Limited,34315.44,Mid Cap,237
+GILLETTE,Gillette India Limited,34097.15,Mid Cap,238
+ACC,ACC Limited,33672.18,Mid Cap,239
+AJANTPHARM,Ajanta Pharma Limited,33607.78,Mid Cap,240
+GODIGIT,Go Digit General Insurance Limited,33598.09,Mid Cap,241
+NLCINDIA,NLC India Limited,33337.69,Mid Cap,242
+KPITTECH,KPIT Technologies Limited,33282.25,Mid Cap,243
+KPRMILL,K.P.R. Mill Limited,33036.32,Mid Cap,244
+AWL,AWL Agri Business Limited,32809.25,Mid Cap,245
+CENTRALBK,Central Bank of India,32784.17,Mid Cap,246
+CDSL,Central Depository Services (India) Limited,32407.54,Mid Cap,247
+EXIDEIND,Exide Industries Limited,32053.5,Mid Cap,248
+GLAND,Gland Pharma Limited,31664.46,Mid Cap,249
+HONAUT,Honeywell Automation India Limited,31617.28,Mid Cap,250
+LICHSGFIN,LIC Housing Finance Limited,31540.61,Small Cap,251
+ASTERDM,Aster DM Healthcare Limited,31009.02,Small Cap,252
+NIACL,The New India Assurance Company Limited,30914.59,Small Cap,253
+KIMS,Krishna Institute of Medical Sciences Limited,29794.35,Small Cap,254
+SUMICHEM,Sumitomo Chemical India Limited,29474.57,Small Cap,255
+ITI,ITI Limited,29424.51,Small Cap,256
+GUJGASLTD,Gujarat Gas Limited,29421.67,Small Cap,257
+NBCC,NBCC (India) Limited,29176.1,Small Cap,258
+IGL,Indraprastha Gas Limited,29096.31,Small Cap,259
+AIAENG,AIA Engineering Limited,28920.93,Small Cap,260
+GRSE,Garden Reach Shipbuilders & Engineers Limited,28866.5,Small Cap,261
+APOLLOTYRE,Apollo Tyres Limited,28029.44,Small Cap,262
+AFFLE,Affle 3i Limited,27933.71,Small Cap,263
+SONACOMS,Sona BLW Precision Forgings Limited,27753.63,Small Cap,264
+IRB,IRB Infrastructure Developers Limited,27096.99,Small Cap,265
+LALPATHLAB,Dr. Lal Path Labs Ltd.,27081,Small Cap,266
+BANDHANBNK,Bandhan Bank Limited,26974.08,Small Cap,267
+TATATECH,Tata Technologies Limited,26912.81,Small Cap,268
+JBCHEPHARM,JB Chemicals & Pharmaceuticals Limited,26753.83,Small Cap,269
+EMCURE,Emcure Pharmaceuticals Limited,26622.08,Small Cap,270
+SHYAMMETL,Shyam Metalics and Energy Limited,26424.77,Small Cap,271
+IKS,Inventurus Knowledge Solutions Limited,26216.69,Small Cap,272
+STARHEALTH,Star Health and Allied Insurance Company Limited,26172.55,Small Cap,273
+ZFCVINDIA,ZF Commercial Vehicle Control Systems India Limited,26118.38,Small Cap,274
+SYNGENE,Syngene International Limited,26110.76,Small Cap,275
+PEL,Piramal Enterprises Limited,25461.55,Small Cap,276
+DEEPAKNTR,Deepak Nitrite Limited,25437.29,Small Cap,277
+FSL,Firstsource Solutions Limited,25296.62,Small Cap,278
+AEGISLOG,Aegis Logistics Limited,25286.08,Small Cap,279
+BAYERCROP,Bayer Cropscience Limited,25264.2,Small Cap,280
+EMAMILTD,Emami Limited,25234.04,Small Cap,281
+PPLPHARMA,Piramal Pharma Limited,25191.29,Small Cap,282
+MSUMI,Motherson Sumi Wiring India Limited,25120.73,Small Cap,283
+NAVINFLUOR,Navin Fluorine International Limited,25031.11,Small Cap,284
+RAMCOCEM,The Ramco Cements Limited,25004.42,Small Cap,285
+NUVAMA,Nuvama Wealth Management Limited,24874.12,Small Cap,286
+WOCKPHARMA,Wockhardt Limited,24790.49,Small Cap,287
+ABSLAMC,Aditya Birla Sun Life AMC Limited,24719.17,Small Cap,288
+TATACHEM,Tata Chemicals Limited,24293.53,Small Cap,289
+BRIGADE,Brigade Enterprises Limited,23616.63,Small Cap,290
+HSCL,Himadri Speciality Chemical Limited,23578.87,Small Cap,291
+PFIZER,Pfizer Limited,23443.41,Small Cap,292
+AMBER,Amber Enterprises India Limited,23381.47,Small Cap,293
+HINDCOPPER,Hindustan Copper Limited,23313.59,Small Cap,294
+INOXWIND,Inox Wind Limited,23162.76,Small Cap,295
+WELCORP,Welspun Corp Limited,23133.98,Small Cap,296
+SUNTV,Sun TV Network Limited,23037.96,Small Cap,297
+ANANDRATHI,Anand Rathi Wealth Limited,22910.49,Small Cap,298
+ANGELONE,Angel One Limited,22887.05,Small Cap,299
+ERIS,Eris Lifesciences Limited,22886.86,Small Cap,300
+EIHOTEL,EIH Limited,22700.71,Small Cap,301
+MRPL,Mangalore Refinery and Petrochemicals Limited,22293.07,Small Cap,302
+SKFINDIA,SKF India Limited,22045.89,Small Cap,303
+ASTRAZEN,AstraZeneca Pharma India Limited,21911.25,Small Cap,304
+CESC,CESC Limited,21895.76,Small Cap,305
+TIMKEN,Timken India Limited,21872.85,Small Cap,306
+AADHARHFC,Aadhar Housing Finance Limited,21849.22,Small Cap,307
+MANAPPURAM,Manappuram Finance Limited,21647.57,Small Cap,308
+PTCIL,PTC Industries Limited,21338.37,Small Cap,309
+KEC,KEC International Limited,21238.77,Small Cap,310
+CHAMBLFERT,Chambal Fertilizers & Chemicals Limited,21202.57,Small Cap,311
+KPIL,Kalpataru Projects International Limited,20961.42,Small Cap,312
+DCMSHRIRAM,DCM Shriram Limited,20913.53,Small Cap,313
+KARURVYSYA,Karur Vysya Bank Limited,20886.21,Small Cap,314
+CASTROLIND,Castrol India Limited,20752.73,Small Cap,315
+CREDITACC,CREDITACCESS GRAMEEN LIMITED,20749.54,Small Cap,316
+SAGILITY,Sagility India Limited,20728.93,Small Cap,317
+CROMPTON,Crompton Greaves Consumer Electricals Limited,20667.68,Small Cap,318
+EIDPARRY,EID Parry India Limited,20640.34,Small Cap,319
+JYOTICNC,Jyoti CNC Automation Limited,20342.99,Small Cap,320
+SCHNEIDER,Schneider Electric Infrastructure Limited,20271.62,Small Cap,321
+KAJARIACER,Kajaria Ceramics Limited,20268.95,Small Cap,322
+ABREL,Aditya Birla Real Estate Limited,20265.13,Small Cap,323
+PNBHOUSING,PNB Housing Finance Limited,20100.38,Small Cap,324
+BASF,BASF India Limited,20071.17,Small Cap,325
+JSWHL,JSW Holdings Limited,19976.4,Small Cap,326
+ASAHIINDIA,Asahi India Glass Limited,19971.05,Small Cap,327
+SUNDRMFAST,Sundram Fasteners Limited,19867.6,Small Cap,328
+SARDAEN,Sarda Energy & Minerals Limited,19662.86,Small Cap,329
+POLYMED,Poly Medicure Limited,19557.94,Small Cap,330
+KANSAINER,Kansai Nerolac Paints Limited,19299.78,Small Cap,331
+HBLENGINE,HBL Engineering Limited,19291.39,Small Cap,332
+IIFL,IIFL Finance Limited,19196.21,Small Cap,333
+ECLERX,eClerx Services Limited,19144.98,Small Cap,334
+CHALET,Chalet Hotels Limited,19106.15,Small Cap,335
+DEVYANI,Devyani International Limited,19045.82,Small Cap,336
+ATUL,Atul Limited,18953.16,Small Cap,337
+KFINTECH,Kfin Technologies Limited,18834.36,Small Cap,338
+CAMS,Computer Age Management Services Limited,18723.74,Small Cap,339
+REDINGTON,Redington Limited,18574.95,Small Cap,340
+APLLTD,Alembic Pharmaceuticals Limited,18563.43,Small Cap,341
+ANANTRAJ,Anant Raj Limited,18537.83,Small Cap,342
+SAILIFE,Sai Life Sciences Limited,18529.77,Small Cap,343
+DEEPAKFERT,Deepak Fertilizers and Petrochemicals Corporation Limited,18345.78,Small Cap,344
+ZENSARTECH,Zensar Technologies Limited,18318.64,Small Cap,345
+RPOWER,Reliance Power Limited,18258.46,Small Cap,346
+BIKAJI,Bikaji Foods International Limited,18189.29,Small Cap,347
+FIRSTCRY,Brainbees Solutions Limited,18102.69,Small Cap,348
+MANYAVAR,Vedant Fashions Limited,17990.67,Small Cap,349
+CGCL,Capri Global Capital Limited,17812.37,Small Cap,350
+NAVA,NAVA LIMITED,17578.61,Small Cap,351
+ARE&M,Amara Raja Energy & Mobility Limited,17500.85,Small Cap,352
+CONCORDBIO,Concord Biotech Limited,17407.06,Small Cap,353
+ACMESOLAR,Acme Solar Holdings Limited,17111.89,Small Cap,354
+GSPL,Gujarat State Petronet Limited,17087.13,Small Cap,355
+UTIAMC,UTI Asset Management Company Limited,17073.7,Small Cap,356
+APTUS,Aptus Value Housing Finance India Limited,17048.02,Small Cap,357
+JUBLPHARMA,Jubilant Pharmova Limited,17007.08,Small Cap,358
+NEULANDLAB,Neuland Laboratories Limited,16985.5,Small Cap,359
+FIVESTAR,Five-Star Business Finance Limited,16949.89,Small Cap,360
+OLAELEC,Ola Electric Mobility Limited,16696.18,Small Cap,361
+TRITURBINE,Triveni Turbine Limited,16415.04,Small Cap,362
+BEML,BEML Limited,16403.34,Small Cap,363
+ELGIEQUIP,Elgi Equipments Limited,16307.93,Small Cap,364
+CARBORUNIV,Carborundum Universal Limited,16268.17,Small Cap,365
+SOBHA,Sobha Limited,16199.29,Small Cap,366
+CRAFTSMAN,Craftsman Automation Limited,16170.52,Small Cap,367
+NATCOPHARM,Natco Pharma Limited,16119.92,Small Cap,368
+CENTURYPLY,Century Plyboards (India) Limited,16106.43,Small Cap,369
+CAPLIPOINT,Caplin Point Laboratories Limited,16027.08,Small Cap,370
+LTFOODS,LT Foods Limited,15969.57,Small Cap,371
+WHIRLPOOL,Whirlpool of India Limited,15934.48,Small Cap,372
+TECHNOE,Techno Electric & Engineering Company Limited,15917.98,Small Cap,373
+BLS,BLS International Services Limited,15870.51,Small Cap,374
+IRCON,Ircon International Limited,15770.57,Small Cap,375
+RBLBANK,RBL Bank Limited,15743.24,Small Cap,376
+VGUARD,V-Guard Industries Limited,15697.96,Small Cap,377
+RAINBOW,Rainbow Childrens Medicare Limited,15637.99,Small Cap,378
+SIGNATURE,Signatureglobal (India) Limited,15631.84,Small Cap,379
+CUB,City Union Bank Limited,15475.95,Small Cap,380
+AFCONS,Afcons Infrastructure Limited,15408.35,Small Cap,381
+JMFINANCIL,JM Financial Limited,15349.27,Small Cap,382
+GODREJAGRO,Godrej Agrovet Limited,15326.7,Small Cap,383
+DOMS,DOMS Industries Limited,15313.17,Small Cap,384
+TARIL,Transformers And Rectifiers (India) Limited,15269.45,Small Cap,385
+INDIAMART,Indiamart Intermesh Limited,15257.37,Small Cap,386
+TBOTEK,TBO Tek Limited,15249.51,Small Cap,387
+NIVABUPA,Niva Bupa Health Insurance Company Limited,15037.24,Small Cap,388
+KIRLOSBROS,Kirloskar Brothers Limited,14928.87,Small Cap,389
+BATAINDIA,Bata India Limited,14791.78,Small Cap,390
+PGEL,PG Electroplast Limited,14766.47,Small Cap,391
+PCBL,PCBL Chemical Limited,14600.89,Small Cap,392
+IGIL,International Gemmological Institute (India) Limited,14514.09,Small Cap,393
+IFCI,IFCI Limited,14282.51,Small Cap,394
+JBMA,JBM Auto Limited,14259.45,Small Cap,395
+TRIDENT,Trident Limited,14211.01,Small Cap,396
+DATAPATTNS,Data Patterns (India) Limited,14146.89,Small Cap,397
+BLUEDART,Blue Dart Express Limited,14093.13,Small Cap,398
+JWL,Jupiter Wagons Limited,14076.35,Small Cap,399
+NCC,NCC Limited,14042.42,Small Cap,400
+GESHIP,The Great Eastern Shipping Company Limited,13804.86,Small Cap,401
+INDGN,Indegene Limited,13790.82,Small Cap,402
+RRKABEL,R R Kabel Limited,13750.13,Small Cap,403
+AAVAS,Aavas Financiers Limited,13642.3,Small Cap,404
+SWANENERGY,Swan Energy Limited,13520.97,Small Cap,405
+AARTIIND,Aarti Industries Limited,13505.06,Small Cap,406
+MGL,Mahanagar Gas Limited,13396.24,Small Cap,407
+INTELLECT,Intellect Design Arena Limited,13194.36,Small Cap,408
+GMDCLTD,Gujarat Mineral Development Corporation Limited,13142.94,Small Cap,409
+JPPOWER,Jaiprakash Power Ventures Limited,13021.44,Small Cap,410
+CYIENT,Cyient Limited,12990.49,Small Cap,411
+GRAVITA,Gravita India Limited,12978.91,Small Cap,412
+KIRLOSENG,Kirloskar Oil Engines Limited,12953.64,Small Cap,413
+BBTC,Bombay Burmah Trading Corporation Limited,12908.5,Small Cap,414
+FINCABLES,Finolex Cables Limited,12862.17,Small Cap,415
+HOMEFIRST,Home First Finance Company India Limited,12816.64,Small Cap,416
+GPIL,Godawari Power And Ispat limited,12808.68,Small Cap,417
+JINDALSAW,Jindal Saw Limited,12708.2,Small Cap,418
+ZENTEC,Zen Technologies Limited,12669.69,Small Cap,419
+CEATLTD,CEAT Limited,12562.99,Small Cap,420
+CLEAN,Clean Science and Technology Limited,12393.79,Small Cap,421
+JYOTHYLAB,Jyothy Labs Limited,12375.11,Small Cap,422
+IEX,Indian Energy Exchange Limited,12356.13,Small Cap,423
+ELECON,Elecon Engineering Company Limited,12197.26,Small Cap,424
+NEWGEN,Newgen Software Technologies Limited,12164.36,Small Cap,425
+RITES,RITES Limited,12046.34,Small Cap,426
+SYRMA,Syrma SGS Technology Limited,11880.19,Small Cap,427
+NETWEB,Netweb Technologies India Limited,11871.55,Small Cap,428
+OLECTRA,Olectra Greentech Limited,11845.07,Small Cap,429
+FINPIPE,Finolex Industries Limited,11819.69,Small Cap,430
+ALIVUS,Alivus Life Sciences Limited,11751.61,Small Cap,431
+LEMONTREE,Lemon Tree Hotels Limited,11598.2,Small Cap,432
+TTML,Tata Teleservices (Maharashtra) Limited,11549.83,Small Cap,433
+VTL,Vardhman Textiles Limited,11532.96,Small Cap,434
+J&KBANK,The Jammu & Kashmir Bank Limited,11532.7,Small Cap,435
+CCL,CCL Products (India) Limited,11517.15,Small Cap,436
+ENGINERSIN,Engineers India Limited,11449.39,Small Cap,437
+INDIACEM,The India Cements Limited,11375.21,Small Cap,438
+ACE,Action Construction Equipment Limited,11228.61,Small Cap,439
+SBFC,SBFC Finance Limited,11193.25,Small Cap,440
+RAILTEL,Railtel Corporation Of India Limited,11191.03,Small Cap,441
+GRANULES,Granules India Limited,11183.96,Small Cap,442
+MINDACORP,Minda Corporation Limited,11137.74,Small Cap,443
+BALRAMCHIN,Balrampur Chini Mills Limited,11112.69,Small Cap,444
+ZEEL,Zee Entertainment Enterprises Limited,11065.18,Small Cap,445
+JUBLINGREA,Jubilant Ingrevia Limited,11044.22,Small Cap,446
+WELSPUNLIV,Welspun Living Limited,10918.37,Small Cap,447
+METROPOLIS,Metropolis Healthcare Limited,10896.15,Small Cap,448
+VIJAYA,Vijaya Diagnostic Centre Limited,10845.71,Small Cap,449
+TITAGARH,TITAGARH RAIL SYSTEMS LIMITED,10772.23,Small Cap,450
+NSLNISP,NMDC Steel Limited,10743.73,Small Cap,451
+PVRINOX,PVR INOX Limited,10734.76,Small Cap,452
+RKFORGE,Ramkrishna Forgings Limited,10679.31,Small Cap,453
+ALKYLAMINE,Alkyl Amines Chemicals Limited,10677.09,Small Cap,454
+USHAMART,Usha Martin Limited,10671.73,Small Cap,455
+HFCL,HFCL Limited,10483.92,Small Cap,456
+WESTLIFE,WESTLIFE FOODWORLD LIMITED,10440.08,Small Cap,457
+BSOFT,BIRLASOFT LIMITED,10387.85,Small Cap,458
+GRAPHITE,Graphite India Limited,10353.95,Small Cap,459
+SAPPHIRE,Sapphire Foods India Limited,10279.39,Small Cap,460
+RHIM,RHI MAGNESITA INDIA LIMITED,10242.45,Small Cap,461
+SONATSOFTW,Sonata Software Limited,10219.95,Small Cap,462
+SAMMAANCAP,Sammaan Capital Limited,9934.03,Small Cap,463
+INOXINDIA,INOX India Limited,9922.27,Small Cap,464
+DBREALTY,Valor Estate Limited,9910.57,Small Cap,465
+CANFINHOME,Can Fin Homes Limited,9854.73,Small Cap,466
+CHENNPETRO,Chennai Petroleum Corporation Limited,9828.89,Small Cap,467
+HEG,HEG Limited,9794.6,Small Cap,468
+TEJASNET,Tejas Networks Limited,9762.24,Small Cap,469
+SCI,Shipping Corporation Of India Limited,9730.28,Small Cap,470
+MAPMYINDIA,C.E. Info Systems Limited,9729.77,Small Cap,471
+MMTC,MMTC Limited,9307.5,Small Cap,472
+SAREGAMA,Saregama India Limited,9220.94,Small Cap,473
+MAHSEAMLES,Maharashtra Seamless Limited,9118.63,Small Cap,474
+ABFRL,Aditya Birla Fashion and Retail Limited,9063.92,Small Cap,475
+ALOKINDS,Alok Industries Limited,8922.48,Small Cap,476
+HONASA,Honasa Consumer Limited,8779.97,Small Cap,477
+HAPPSTMNDS,Happiest Minds Technologies Limited,8723.78,Small Cap,478
+NETWORK18,Network18 Media & Investments Limited,8666.02,Small Cap,479
+JKTYRE,JK Tyre & Industries Limited,8634.26,Mid Cap,480
+LATENTVIEW,Latent View Analytics Limited,8235.16,Small Cap,481
+TANLA,Tanla Platforms Limited,8235.15,Small Cap,482
+CERA,Cera Sanitaryware Limited,8226.44,Small Cap,483
+RCF,Rashtriya Chemicals and Fertilizers Limited,8116.43,Small Cap,484
+CAMPUS,Campus Activewear Limited,7963.69,Mid Cap,485
+MASTEK,Mastek Limited,7870.51,Small Cap,486
+PNCINFRA,PNC Infratech Limited,7857.79,Small Cap,487
+GPPL,Gujarat Pipavav Port Limited,7601.61,Small Cap,488
+PRAJIND,Praj Industries Limited,7599.16,Small Cap,489
+TRIVENI,Triveni Engineering & Industries Limited,7495.07,Small Cap,490
+GNFC,Gujarat Narmada Valley Fertilizers and Chemicals Limited,7380.85,Small Cap,491
+AKUMS,Akums Drugs and Pharmaceuticals Limited,7365.74,Small Cap,492
+JUSTDIAL,Just Dial Limited,7049.36,Small Cap,493
+RTNINDIA,RattanIndia Enterprises Limited,6933.35,Small Cap,494
+SWSOLAR,Sterling and Wilson Renewable Energy Limited,6561.18,Small Cap,495
+RAYMONDLSL,Raymond Lifestyle Limited,6504.04,Small Cap,496
+RENUKA,Shree Renuka Sugars Limited,6032.13,Small Cap,497
+KNRCON,KNR Constructions Limited,5697.82,Small Cap,498
+ROUTE,ROUTE MOBILE LIMITED,5502.89,Small Cap,499
+RAYMOND,Raymond Limited,4115.87,Mid Cap,500
+NIFTY 500,NIFTY 500,0,Small Cap,501

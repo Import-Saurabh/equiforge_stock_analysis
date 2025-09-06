@@ -1,0 +1,26 @@
+[2025-08-18 21:01:01,096] [INFO] [services.cashflow] Scraping from: https://www.moneycontrol.com/financials/cipla/cash-flowVI/C#C
+[2025-08-18 21:01:04,783] [INFO] [services.cashflow] Found Net CashFlow From Operating Activities (2025-03-31): 3300.99
+[2025-08-18 21:01:04,784] [INFO] [services.cashflow] Found Net CashFlow From Operating Activities (2024-03-31): 3726.77
+[2025-08-18 21:01:04,785] [INFO] [services.cashflow] Found Net CashFlow From Operating Activities (2023-03-31): 3035.05
+[2025-08-18 21:01:04,785] [INFO] [services.cashflow] Found Net CashFlow From Operating Activities (2022-03-31): 2773.43
+[2025-08-18 21:01:04,786] [INFO] [services.cashflow] Found Net CashFlow From Operating Activities (2021-03-31): 3460.31
+[2025-08-18 21:01:04,786] [INFO] [services.cashflow] Found Net Cash Used In Investing Activities (2025-03-31): -2308.53
+[2025-08-18 21:01:04,787] [INFO] [services.cashflow] Found Net Cash Used In Investing Activities (2024-03-31): -2882.82
+[2025-08-18 21:01:04,788] [INFO] [services.cashflow] Found Net Cash Used In Investing Activities (2023-03-31): -2757.95
+[2025-08-18 21:01:04,788] [INFO] [services.cashflow] Found Net Cash Used In Investing Activities (2022-03-31): -2463.73
+[2025-08-18 21:01:04,796] [INFO] [services.cashflow] Found Net Cash Used In Investing Activities (2021-03-31): -3360.45
+[2025-08-18 21:01:04,918] [INFO] [services.cashflow] Inserting operating_cashflow for 2025-03-31: 3300.99
+[2025-08-18 21:01:04,929] [INFO] [services.cashflow] Inserting capex for 2025-03-31: -2308.53
+[2025-08-18 21:01:04,932] [INFO] [services.cashflow] Inserting free_cash_flow for 2025-03-31: 5609.52
+[2025-08-18 21:01:04,934] [INFO] [services.cashflow] Inserting operating_cashflow for 2024-03-31: 3726.77
+[2025-08-18 21:01:04,936] [INFO] [services.cashflow] Inserting capex for 2024-03-31: -2882.82
+[2025-08-18 21:01:04,938] [INFO] [services.cashflow] Inserting free_cash_flow for 2024-03-31: 6609.59
+[2025-08-18 21:01:04,940] [INFO] [services.cashflow] Inserting operating_cashflow for 2023-03-31: 3035.05
+[2025-08-18 21:01:04,942] [INFO] [services.cashflow] Inserting capex for 2023-03-31: -2757.95
+[2025-08-18 21:01:04,944] [INFO] [services.cashflow] Inserting free_cash_flow for 2023-03-31: 5793.0
+[2025-08-18 21:01:04,946] [INFO] [services.cashflow] Inserting operating_cashflow for 2022-03-31: 2773.43
+[2025-08-18 21:01:04,947] [INFO] [services.cashflow] Inserting capex for 2022-03-31: -2463.73
+[2025-08-18 21:01:04,949] [INFO] [services.cashflow] Inserting free_cash_flow for 2022-03-31: 5237.16
+[2025-08-18 21:01:04,953] [INFO] [services.cashflow] Inserting operating_cashflow for 2021-03-31: 3460.31
+[2025-08-18 21:01:04,958] [INFO] [services.cashflow] Inserting capex for 2021-03-31: -3360.45
+[2025-08-18 21:01:04,961] [INFO] [services.cashflow] Inserting free_cash_flow for 2021-03-31: 6820.76
