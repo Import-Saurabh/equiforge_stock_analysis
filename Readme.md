@@ -122,6 +122,11 @@ It is not intended as financial advice. Always do your own research before inves
 
 🖼️ Project Images
 Application Interface
-<p align="center"> <img src="EquiForge Logo.png" alt="EquiForge Logo" width="400"/> </p><p align="center"> <img src="BIF.png" alt="Top Gainers and Losers" width="700"/> </p><p align="center"> <img src="balance-sheet.png" alt="Balance Sheet Visualization" width="700"/> </p><p align="center"> <img src="Screenshot 2025-09-06 160538.png" alt="Market Overview" width="700"/> </p><p align="center"> <img src="Screenshot 2025-09-06 160616.png" alt="Stock Performance" width="700"/> </p><p align="center"> <img src="Screenshot 2025-09-06 160631.png" alt="Financial Metrics" width="700"/> </p>
+<p align="center"> <img src="asset/EquiForge Logo.png" alt="EquiForge Logo" width="400"/> </p>
+<p align="center"> <img src="asset/BIF.png" alt="Top Gainers and Losers" width="700"/> </p>
+<p align="center"> <img src="asset/balance-sheet.png" alt="Balance Sheet Visualization" width="700"/> </p>
+<p align="center"> <img src="asset/Screenshot 2025-09-06 160538.png" alt="Market Overview" width="700"/> </p>
+<p align="center"> <img src="asset/Screenshot 2025-09-06 160616.png" alt="Stock Performance" width="700"/> </p>
+<p align="center"> <img src="asset/Screenshot 2025-09-06 160631.png" alt="Financial Metrics" width="700"/> </p>
 Development Progress
-<p align="center"> <img src="Screenshot 2025-09-06 160932.png" alt="Project Structure" width="700"/> </p
+<p align="center"> <img src="asset/Screenshot 2025-09-06 160932.png" alt="Project Structure" width="700"/> </p>
